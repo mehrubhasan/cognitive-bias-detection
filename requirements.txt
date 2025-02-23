@@ -1,1 +1,1 @@
-scikit-learn\npandas\nnumpy\nmatplotlib\nflask
+scikit-learn\n pandas\n numpy\n matplotlib\n flask
