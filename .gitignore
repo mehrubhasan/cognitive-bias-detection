@@ -1,0 +1,1 @@
+*.pkl\n*.csv\n__pycache__/\n*.log\n*.DS_Store
